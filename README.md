@@ -19,5 +19,5 @@ If there is an error it will report it out on the terminal.
 Schedule it for later running by using crontab -e to schedule the job to run every week or daily etc. 
 for e.g. 
 <pre>
-0 17 * * 0,3 python /&ltPATH TO THE FILE&gt/edlab_runner.py
+0 17 * * 0,3 python   PATH_TO_THE_FILE_send_email.py
 </pre>
