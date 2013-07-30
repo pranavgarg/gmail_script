@@ -5,7 +5,7 @@ Script to send automatic emails from your gmail based on certain dates written i
 Details to be set in the sendMail function. 
 
  gmailUser = '<GMAIL USER ACCOUNT>'
- gmailPassword = '<GMAIL PASSWORD/APPLICATION SPECIFIC PASSWORD'        
+ gmailPassword = "<GMAIL PASSWORD/APPLICATION SPECIFIC PASSWORD>"
                 Please refer to this site. https://support.google.com/mail/answer/1173270?hl=en
  recipient = '<email to which the email should be sent to>' 
 
