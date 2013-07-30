@@ -1,8 +1,8 @@
 gmail_script
 ============
 
-Script to send automatic emails from your gmail based on certain dates written in Python.
-Details to be set in the sendMail function. 
+Python Script to send automated emails from your gmail account based on certain dates/times.
+Configuration option to be set in the sendMail function of send_email.py
 <pre>
  gmailUser = GMAIL USER ACCOUNT
  gmailPassword = GMAIL PASSWORD/APPLICATION SPECIFIC PASSWORD
