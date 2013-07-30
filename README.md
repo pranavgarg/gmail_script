@@ -13,7 +13,7 @@ recipient = RECIPIENT EMAIL
 </pre>
 
 
-Once you have provided the above configuration. Run the script by typing python <b> send_email.py </b> to see if it works fine. 
+Once you have provided the above configuration. Run the script by typing <b> python send_email.py </b> to see if it works fine. 
 If there is an error it will report it out on the terminal.
 
 Schedule it for later running by using crontab -e to schedule the job to run every week or daily etc. 
